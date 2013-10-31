@@ -43,8 +43,8 @@ sub escape_html {
 
 1;
 
-
 __END__
+
 =pod
 
 =head1 NAME
@@ -53,7 +53,7 @@ HTML::Template::Compiled::Plugin::HTML2 - Do not escape all HTML entities
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 
@@ -85,23 +85,16 @@ version 0.01
 
 =head1 DESCRIPTION
 
-=head1 AUTHOR AND LICENSE
-
-Copyright 2012 Renee Baecker C<< <module@renee-baecker.de> >>
-
-License: Artistic License 2.0
-
 =head1 AUTHOR
 
-Renee Baecker <module@renee-baecker.de>
+Renee Baecker <reneeb@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is Copyright (c) 2012 by Renee Baecker.
+This software is Copyright (c) 2013 by Renee Baecker.
 
 This is free software, licensed under:
 
   The Artistic License 2.0 (GPL Compatible)
 
 =cut
-

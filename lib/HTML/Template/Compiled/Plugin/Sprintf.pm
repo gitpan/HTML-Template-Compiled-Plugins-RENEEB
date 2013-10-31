@@ -52,9 +52,8 @@ sub escape_sprintf_8_right {
 
 1;
 
-
-
 __END__
+
 =pod
 
 =head1 NAME
@@ -63,7 +62,7 @@ HTML::Template::Compiled::Plugin::Sprintf - Use sprintf in HTML::Template::Compi
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 
@@ -97,23 +96,16 @@ This module provides 30 sprintf formatters for templates.
 
 =back
 
-=head1 AUTHOR AND LICENSE
-
-Copyright 2012 Renee Baecker <module@renee-baecker.de>
-
-License: Artistic License 2.0
-
 =head1 AUTHOR
 
-Renee Baecker <module@renee-baecker.de>
+Renee Baecker <reneeb@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is Copyright (c) 2012 by Renee Baecker.
+This software is Copyright (c) 2013 by Renee Baecker.
 
 This is free software, licensed under:
 
   The Artistic License 2.0 (GPL Compatible)
 
 =cut
-
